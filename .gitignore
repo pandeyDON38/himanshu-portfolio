@@ -1,0 +1,8 @@
+# .gitignore (add if not present)
+# Dependencies
+node_modules/
+# Build output
+.next/
+# OS / editor noise
+.DS_Store
+Thumbs.db
